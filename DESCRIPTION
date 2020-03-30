@@ -1,6 +1,6 @@
 Package: getmstatistic
 Title: Quantifying Systematic Heterogeneity in Meta-Analysis
-Version: 0.2.0
+Version: 0.2.1
 Authors@R: c(
     person("Lerato E", "Magosi", email = "lmagosi@well.ox.ac.uk", 
     role = "aut",),
@@ -34,15 +34,15 @@ BugReports: https://github.com/magosil86/getmstatistic/issues
 LazyData: true
 Imports: ggplot2 (>= 1.0.1), gridExtra (>= 0.9.1), gtable (>= 0.1.2),
         metafor (>= 1.9-6), psych (>= 1.5.1), stargazer (>= 5.1)
-Suggests: foreign (>= 0.8-62), knitr (>= 1.10.5), testthat
+Suggests: foreign (>= 0.8-62), knitr (>= 1.10.5), testthat, covr
 RoxygenNote: 6.1.1
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2019-03-15 06:58:01 UTC; lmagosi
+Packaged: 2020-03-29 22:18:48 UTC; lmagosi
 Author: Lerato E Magosi [aut],
   Jemma C Hopewell [aut],
   Martin Farrall [aut],
   Lerato E Magosi [cre]
 Maintainer: Lerato E Magosi <magosil86@gmail.com>
 Repository: CRAN
-Date/Publication: 2019-03-15 08:40:06 UTC
+Date/Publication: 2020-03-30 08:50:06 UTC
